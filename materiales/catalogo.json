@@ -1,0 +1,17 @@
+{
+  "categorias": [
+    {
+      "nombre": "Explosiones",
+      "items": [
+        {
+          "nombre": "Explosión Cósmica (Ejemplo)",
+          "url": "explosiones/explosion_01.png"
+        },
+        {
+          "nombre": "Impacto Seco (Ejemplo)",
+          "url": "explosiones/explosion_02.png"
+        }
+      ]
+    }
+  ]
+}
